@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+STL_Performance.v12.suo
+IDE/Release/
+IDE/Debug/STL_Performance.log
+IDE/Debug/
